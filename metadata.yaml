@@ -1,11 +1,16 @@
 _repo: Greetings-from-Crater-Lake-National-Park-Oregon-7-Framing-Size-Photo-Reproductions-in-Natural__65288
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65288-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, Mike
     gutenberg_agent_id: '53270'
     url: http://www.gutenberg.org/2009/agents/53270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65288#Greetings-from-Crater-Lake-National-Park-Oregon-7-Framing-Size-Photo-Reproductions-in-Natural_
 gutenberg_issued: '2021-05-08'
 gutenberg_type: Text
 identifiers:
